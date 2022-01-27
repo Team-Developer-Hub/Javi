@@ -25,8 +25,11 @@ python --version
 
 in linux (or Ubuntu) you type this in terminal to get it installed:
 sudo apt update
+
 sudo apt install software-properties-common
+
 sudo add-apt-repository ppa:deadsnakes/ppa
+
 sudo apt install python3.9
 
 and to verify in linux or Ubuntu type (in terminal) :
@@ -42,7 +45,9 @@ For windows you type this (in command prompt) :
 pip install sly
 
 For linux (or known as Ubuntu) you type (in terminal):
+
 sudo pip install sly
+
 sudo pip install PyInstaller
 
 
