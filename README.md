@@ -4,7 +4,6 @@ An easy programming language for beginners to start learning.
 # Documentation
 
 This is the start where you can view documentation from version 1.0.0 - [Latest_ver] 
-FunWithAlbi — 22/01/2022
 javi jre-1.0.0
 
 to get yourself started there are requierments you need (these get updated from time to time)
