@@ -1,5 +1,4 @@
-This is the start where you can view documentation from version 1.0.0 -  
-
+This is the start where you can view documentation from version 1.0.0 - [Latest_ver] 
 javi jre-1.0.0
 
 to get yourself started there are requierments you need (these get updated from time to time)
@@ -19,7 +18,7 @@ else wont work.
 to very installation in windows type:
 python --version
 
-in linux (or Ubuntu) you type this in terminal to get it installed:
+in linux (or Ubuntu) you type this to get it installed:
 sudo apt update
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:deadsnakes/ppa
@@ -75,7 +74,6 @@ Step 3: in Ubuntu or Linux you can't verify installation so you will just have t
 Step 4: If all steps Worked on Linux or Ubuntu then you got it and you can use it!
 
 It should end up with it installed and all steps should work as said! 
-
 Printing and the basics
 These are the most basics that you need to know!
 
@@ -108,10 +106,11 @@ Run >> print="Print is Changed!"
 "Print is Changed!"
 Run >>
 Run >>
-
-
+End
+End
+End
+FunWithAlbi — 01/23/2022
 Numbers, Math and variables
----------------------------
 how to print numbers and how to make variables
 
 Making variables and printing numbers is easy. after all this language is made to be easy for new coders
@@ -155,14 +154,15 @@ and it will output:
 you can also do the others at the top i meantioned
 
 Exyrus explains the rest, thank you for reading. 
-
-String Variables
-----------------
-
+ExyrusYT — 01/23/2022
 Variables can be declared via 
 yourvariablename="string"
  
 Inside the quotation marks, write the text that will be represented by the text before the equals sign.
 For example:
 dog="boston_terrier"
-
+here's what we did (a preview): and enjoy <br></br>
+![image](https://user-images.githubusercontent.com/98217558/151591533-dd6e61a1-3ac4-4772-87a1-17a238d64d00.png)
+End
+End
+End
