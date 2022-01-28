@@ -177,5 +177,5 @@ Inside the quotation marks, write the text that will be represented by the text 
 For example:
 dog="boston_terrier"
 
-All of the things we've shown here should look ike this:
+All of the things we've shown here should look like this: </br>
 ![unknown](https://user-images.githubusercontent.com/97399129/151438938-4f0207f5-8ea7-498d-ab43-96f149de6a09.png)
