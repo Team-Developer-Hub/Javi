@@ -20,8 +20,11 @@ python --version
 
 in linux (or Ubuntu) you type this to get it installed:
 sudo apt update
+
 sudo apt install software-properties-common
+
 sudo add-apt-repository ppa:deadsnakes/ppa
+
 sudo apt install python3.9
 
 and to verify in linux or Ubuntu type (in terminal) :
