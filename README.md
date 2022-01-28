@@ -1,5 +1,5 @@
 # Javi
-An easy programming language for beginners to start learning the world of <em>Fun!</em>
+An easy programming language for beginners to start learning the world of <strong> <em>Fun!</em> </strong>
 
 # Documentation
 
