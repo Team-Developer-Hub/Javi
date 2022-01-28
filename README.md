@@ -5,5 +5,5 @@ An easy programming language for beginners to start learning the world of <stron
 
 <br></br>
 
-<button type="button" onclick="https://github.com/Team-Java-Wolf/Javi/blob/main/gh/documentation.md"> <img src="https://i.imgur.com/gCToGZG.png" height ="100" width="200" /></button>
+[<img src="https://i.imgur.com/gCToGZG.png" height="100" width="200" />](https://github.com/Team-Java-Wolf/Javi/blob/main/gh/documentation.md/)
 <br></br>
