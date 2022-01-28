@@ -10,3 +10,5 @@ An easy programming language for beginners to start learning the world of <stron
 # Features
 
 This section is comming soon!! this also might help you with something ;)
+
+git describe [--tags] > readme.gh
