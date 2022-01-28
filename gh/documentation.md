@@ -1,10 +1,17 @@
 # Documentation
 
-| todo list rn! | Todo Ez |
+| todo list rn! | Todo              |
 | ------------- |:-----------------:|
 | functions     | ~simple printing~ |
 | file support  | ~exce handling~   |
 | error msgs    | ~variables~       |
+
+feel free to report any issues on the issues tab on github repositery as this is in close beta
+but any feedback will be amazing and we'll try to fix it, and yes, if you have any suggestions
+about the things on the **TODO LIST** feel free to tell me on the issues tab. I'm working so hard
+to do all of these but it's just so hard so if anyone can contribute we will appreciate it :D
+
+# Start
 
 This is the start where you can view documentation from version 1.0.0 - [Latest_ver] 
 javi jre-1.0.0
