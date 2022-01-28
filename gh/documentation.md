@@ -171,6 +171,3 @@ For example:
 dog="boston_terrier"
 here's what we did (a preview): and enjoy <br></br>
 ![image](https://user-images.githubusercontent.com/98217558/151591533-dd6e61a1-3ac4-4772-87a1-17a238d64d00.png)
-End
-End
-End
