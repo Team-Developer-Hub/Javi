@@ -1,5 +1,11 @@
 # Documentation
 
+| todo list rn! | Todo Ez |
+| ------------- |:-----------------:|
+| functions     | ~simple printing~ |
+| file support  | ~exce handling~   |
+| error msgs    | ~variables~       |
+
 This is the start where you can view documentation from version 1.0.0 - [Latest_ver] 
 javi jre-1.0.0
 
