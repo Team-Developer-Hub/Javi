@@ -4,4 +4,4 @@ An easy programming language for beginners to start learning the world of <stron
 >> The documentation has been moved to the documentation.md file. please go there for the full documentation. and it can be also accesible through this button below:4
 <br>
 
-[<img src="https://github.com/Team-Java-Wolf/Javi/gh/docs.png" width="200" height="100"/>](https://github.com/Team-Java-Wolf/Javi/documentation.md)
+[<img src="https://github.com/Team-Java-Wolf/Javi/gh/docs.png" width="200" height="100"/>](https://github.com/Team-Java-Wolf/Javi/blob/main/documentation.md)
