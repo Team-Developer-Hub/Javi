@@ -58,9 +58,7 @@ Note:
 to extract on ubuntu or linux type:
 tar -xvf javi_jre-1.0.0.tar.gz
  
-FunWithAlbi — 22/01/2022
-How to run
------------------
+How to run:
 Windows
 
 Step 1: open a command prompt window here. or a powershell. both will probbably work but we are using command prompt for this.
