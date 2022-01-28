@@ -1,3 +1,5 @@
+# Documentation
+
 This is the start where you can view documentation from version 1.0.0 - [Latest_ver] 
 javi jre-1.0.0
 
