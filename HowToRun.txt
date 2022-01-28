@@ -1,0 +1,18 @@
+If you havn't read the documentation yet, you are probbably lost on how to start this. let me show you.
+
+------
+> How to run
+------
+> Windows
+
+Step 1: open a command prompt window here. or a powershell. both will probbably work but we are using command prompt for this.
+Step 2: type ```python javi.py``` and press enter
+Step 3: type on command prompt in the javi location ```javiw -v``` or ```javiw --version``` and if it worked it should say "javi version jre-1.0.0"
+Step 4: If all steps Worked you can use it!
+
+> Linux (Ubuntu)
+
+Step 1: open a terminal here in the javi location.
+Step 2: type ```python3 javi.py``` And if that doesn't work consider using this command: ```sudo python3 javi.py```
+Step 3: in Ubuntu or Linux you can't verify installation so you will just have to see if it works.
+Step 4: If all steps Worked on Linux or Ubuntu then you got it and you can use it!
