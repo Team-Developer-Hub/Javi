@@ -11,9 +11,18 @@ to get started, you should do/download the requierments below:
 
 1. Python 3.9
 2. Sly for python 3.9
+3. Java 8 (1.8) JDK
 
 ------ installation -----
-Python
+>> Java 1.8 (8) JDK
+installing java 8 is also simple you just need to use the installer
+and follow on this guide
+https://www.youtube.com/watch?v=yGxCQisOL1A
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+and verify installation using:
+$ java -version
+
+>> Python
 Installing python is fairly easy, it is also documented on their site.
 you can download it at https://python.org/
 (note that 3.9 is needed, 3.10 probbably wont work untill officialy
@@ -36,7 +45,7 @@ and to verify in linux or Ubuntu type (in terminal) :
 python3.9 --version
 
 
-Sly for python
+>> Sly for python
 Installing sly is also easy and is fully auotmated procces.
 to download sly its more easy than download python.
 sly works with any release of javi unless documented that it doesnt.
