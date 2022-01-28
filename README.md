@@ -84,7 +84,6 @@ Step 3: in Ubuntu or Linux you can't verify installation so you will just have t
 Step 4: If all steps Worked on Linux or Ubuntu then you got it and you can use it!
 
 It should end up with it installed and all steps should work as said! 
-FunWithAlbi — 22/01/2022
 
 Printing and the basics
 These are the most basics that you need to know!
