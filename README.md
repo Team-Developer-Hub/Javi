@@ -6,7 +6,7 @@ An easy programming language for beginners to start learning the world of <stron
 >> and it can be also accesible through this button below:
 
 <br></br>
-[<img src="https://i.imgur.com/gCToGZG.png" height="100" width="200" />](https://github.com/Team-Java-Wolf/Javi/blob/main/gh/documentation.md/)
+[<img src="https://i.imgur.com/gCToGZG.png" height="100" width="200" />](https://github.com/Team-Developer-Hub/Javi/blob/main/gh/documentation.md/)
 <br></br>
 
 # Features
